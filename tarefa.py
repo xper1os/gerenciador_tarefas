@@ -5,4 +5,4 @@ class Tarefa:
         self.prioridade = prioridade
 
     def __str__(self):
-        return f"Nome: {self.nome} - Prioridade: {self.prioridade}"
+        return f"Nome: {self.nome} - Teste: {self.prioridade}"
